@@ -1,0 +1,1 @@
+﻿Send-MailMessage -SmtpServer omegateknoloji.com -Port 25 -From ozkan@omegateknoloji.com -To info@omegateknoloji.com -Subject test -Body test
